@@ -1,5 +1,4 @@
 # OIBSIP_Basic-Firewall-Configuration-with-UFW
-### Oasis Infobyte Internship - Task 2 Completed ✅
 
 ## Objective
 Configure a basic firewall on a Linux system using UFW to allow SSH and block HTTP traffic.
